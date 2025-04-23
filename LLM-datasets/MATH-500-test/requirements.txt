@@ -1,0 +1,10 @@
+datasets==3.2.0
+jupyterlab==4.3.4
+numpy==2.2.1
+pylatexenc==2.10
+tokenizers==0.21.0
+torch==2.5.1
+tqdm==4.67.1
+transformers==4.48.0
+trl==0.13.0
+typing_extensions==4.12.2
