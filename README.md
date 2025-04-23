@@ -53,7 +53,7 @@ NPU：Ascend 910B
 
 # 评测工具集使用方法
 
-## 依赖环境 
+## 镜像环境 
 前往 [昇腾社区/开发资源](https://www.hiascend.com/developer/ascendhub/detail/af85b724a7e5469ebd7ea13c3439d48f) 下载适配目标模型的镜像包：如 1.0.0-800I-A2-py311-openeuler24.03-lts  
 
 ## 测试示例
