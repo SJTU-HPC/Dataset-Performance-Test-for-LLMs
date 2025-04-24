@@ -27,9 +27,8 @@
 # 项目目录结构
 
 ```
-├── LVLM-datasets
-│   ├── ...
-├── LLM-datasets/
+
+├── Text_Understanding_tests/   #文本模型测试代码
 │   ├── MATH-500-test/
 │   │   ├── main.py                #运行代码
 │   │   └── utils/                 #原始工具代码
@@ -41,7 +40,8 @@
 │   │   ├── ...
 │   └── MMLU-test/
 │       └── ...
-
+├── Image_Understanding_tests #图像理解模型测试代码
+│   ├── ...
 
 ```
 
