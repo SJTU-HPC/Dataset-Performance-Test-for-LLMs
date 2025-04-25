@@ -1,4 +1,3 @@
 [submodule "LLM-datasets/Image_Understanding_tests"]
 	path = LLM-datasets/Image_Understanding_tests
-  main
 	url = https://github.com/JingfengS/llm-dataset-autotest
